@@ -1,4 +1,4 @@
-using module .\PSPacker-Windows\WindowsMachine.psm1
+using module PSPacker-Windows
 
 Class Windows10Machine : WindowsMachine
 {
